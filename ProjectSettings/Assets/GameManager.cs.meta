@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6fdfc6d94a419e440846f310cd2b3b8b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - blocoPrefab: {fileID: 8504565340029125917, guid: 40fde651a7a07e64084d3c3b0d488c72, type: 3}
+  - jogador1Prefab: {fileID: 6627828170905049902, guid: 206688e26dcf08840859aeaab08d2394, type: 3}
+  - jogador2Prefab: {fileID: 2475726318896462029, guid: 9325534ee9d2d0d4b9d8c459463444bf, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
